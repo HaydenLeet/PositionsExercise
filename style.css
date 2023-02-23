@@ -126,3 +126,24 @@ h1 {
 /* #power, #space {
     z-index: 1;
 } */
+
+
+/* Bonus */
+
+#reality {
+    z-index: 10;
+}
+
+#time {
+z-index: 6;
+}
+
+/* 2 */
+#soul {
+    z-index: 3;
+}
+
+h2 {
+    position: sticky;
+    top: 65px;
+}
